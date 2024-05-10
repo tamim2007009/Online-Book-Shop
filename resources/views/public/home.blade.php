@@ -14,26 +14,23 @@
                     <div class="slider-img slider-bg-1"></div>
                     <div class="carousel-caption">
                         <h2>First slide level</h2>
-                        <p class="d-none d-md-block">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente, laborum earum.
-                            Officiis molestiae ratione nobis, eveniet quidem veniam exercitationem laudantium.</p>
+                        <p class="d-none d-md-block">The reading of all good books is like
+                             conversation with the finest (people) of the past centuries.” ― René Descartes</p>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="slider-img slider-bg-2"></div>
                     <div class="carousel-caption">
                         <h2>Second slide label</h2>
-                        <p class="d-none d-md-block">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente, laborum earum.
-                            Officiis
-                            molestiae ratione nobis, eveniet quidem veniam exercitationem laudantium.</p>
+                        <p class="d-none d-md-block">Never trust anyone who has not brought a book with them.”― Lemony Snicket</p>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="slider-img slider-bg-3"></div>
                     <div class="carousel-caption">
                         <h2>Third slide label</h2>
-                        <p class="d-none d-md-block">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente, laborum earum.
-                            Officiis
-                            molestiae ratione nobis, eveniet quidem veniam exercitationem laudantium.</p>
+                        <p class="d-none d-md-block">Words have power, which is why Imam Ali says, 
+                            'Speak only when your words are more beautiful than the silence</p>
                     </div>
                 </div>
             </div>

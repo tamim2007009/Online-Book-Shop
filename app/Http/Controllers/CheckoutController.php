@@ -11,6 +11,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Stripe\Charge;
 use Stripe\Stripe;
+
 use Cart;
 
 class CheckoutController extends Controller

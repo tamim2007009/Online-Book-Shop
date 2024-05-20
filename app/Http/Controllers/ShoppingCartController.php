@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Book;
-use Cart;
+use Cart; // Add this line to import the 'Cart' class
 use Illuminate\Http\Request;
 class ShoppingCartController extends Controller
 {

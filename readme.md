@@ -19,8 +19,8 @@
  
  ### Others
  
- - Multiple secured login and registration, Use middleware route group for admin and users
- - Use database seeder
- - Secured payment system with **stripe**.
+ - Multiple secured login and registration,  middleware used to route group for admin and users
+ -  Database seeder used
+ - Secured payment system with **stripe** API.
  - Resize the uploaded images. 
  

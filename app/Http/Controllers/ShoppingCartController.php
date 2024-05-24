@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Book;
 use Cart; // Add this line to import the 'Cart' class
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 class ShoppingCartController extends Controller
 {
     public function add_to_cart(Request $request)

@@ -1,4 +1,6 @@
+
 # Online Bookstore with laravel
+
 
  ## Key Features
  
@@ -24,6 +26,19 @@
  - Secured payment system with **stripe** API.
  - Resize the uploaded images. 
  
+
+ ### Development
+ 
+ This project developed with
+ - [Laravel](https://laravel.com/)
+ - [Bootstrap]
+ - SB-Admin-2
+ - JavaScript, jQuery
+ - MySql
+ - [Stripe payment](https://stripe.com/)
+ - [Laravel ShoppingCart](https://github.com/bumbummen99/LaravelShoppingcart)
+ 
+
  ### Course Instructors
 
 - Kazi Saeed Alam,
@@ -32,3 +47,4 @@
 - Farhan Sadaf,
   Lecturer,
   Department of Computer Science and Engineering, KUET
+

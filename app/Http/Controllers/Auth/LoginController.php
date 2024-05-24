@@ -23,22 +23,25 @@ class LoginController extends Controller
 
     public function redirectTo()
     {
-        $role_id = Auth::user()->role->id;
 
-        switch ($role_id)
-        {
-            case '1':
-                return '/admin-home';
-                break;
-            case '2':
-                return '';
-                break;
-            case '3':
-                return '/user-home';
-                break;
-            default:
-                return '/login';
-                break;
+        if (Auth::check()) {
+            $role_id = !empty(Auth::user()->role->id) ? Auth::user()->role->id : 3;
+            switch ($role_id) {
+                case '1':
+                    return '/admin-home';
+                    break;
+                case '2':
+                    return '';
+                    break;
+                case '3':
+                    return '/user-home';
+                    break;
+                default:
+                    return '/login';
+                    break;
+            }
+        } else {
+            return '/login';
         }
     }
 
@@ -47,7 +50,7 @@ class LoginController extends Controller
      *
      * @var string
      */
-//    protected $redirectTo = '/admin-home';
+    //    protected $redirectTo = '/admin-home';
 
     /**
      * Create a new controller instance.

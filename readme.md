@@ -24,3 +24,11 @@
  - Secured payment system with **stripe** API.
  - Resize the uploaded images. 
  
+ ### Course Instructors
+
+- Kazi Saeed Alam,
+  Lecturer,
+  Department of Computer Science & Engineering, KUET
+- Farhan Sadaf,
+  Lecturer,
+  Department of Computer Science and Engineering, KUET

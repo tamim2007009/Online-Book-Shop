@@ -1,6 +1,7 @@
-# Online Bookshop with laravel
- This is an online bookshop project with laravel,bootstrap,javaScript and jquery. In this project I use [**stripe payment**](https://stripe.com/) system, and [**Laravel Shoppingcart**](https://github.com/bumbummen99/LaravelShoppingcart) for maintaining the user orders and payments. This project has many other cool functionality, like as [**Data table**](https://datatables.net/) and so on.
- 
+
+# Online Bookstore with laravel
+
+
  ## Key Features
  
  ### Users
@@ -20,9 +21,9 @@
  
  ### Others
  
- - Multiple secured login and registration, Use middleware route group for admin and users
- - Use database seeder
- - Secured payment system with **stripe**.
+ - Multiple secured login and registration,  middleware used to route group for admin and users
+ -  Database seeder used
+ - Secured payment system with **stripe** API.
  - Resize the uploaded images. 
  
  ### Development
@@ -38,4 +39,14 @@
  
 
 
+
+
+ ### Course Instructors
+
+- Kazi Saeed Alam,
+  Lecturer,
+  Department of Computer Science & Engineering, KUET
+- Farhan Sadaf,
+  Lecturer,
+  Department of Computer Science and Engineering, KUET
 

@@ -1,6 +1,9 @@
 
-# Online Bookstore with laravel
+# Online Bookshop with laravel
+ This is an online bookshop project with laravel,bootstrap,javaScript and jquery. In this project I use [**stripe payment**](https://stripe.com/) system, and [**Laravel Shoppingcart**](https://github.com/bumbummen99/LaravelShoppingcart) for maintaining the user orders and payments. 
 
+
+# Online Bookstore with laravel
 
  ## Key Features
  
@@ -15,7 +18,7 @@
  
  ### Admin 
  - Basically admin manages the all activities of the application
- - Admin can add & delete user, author, category, and books.
+ - Admin can add & delete user,category, and books.
  - Admin can accept or reject the user orders.
  - Admin has control over the book reviews and so on.
  
@@ -31,16 +34,11 @@
  This project developed with
  - [Laravel](https://laravel.com/)
  - [Bootstrap]
- - SB-Admin-2
  - JavaScript, jQuery
  - MySql
  - [Stripe payment](https://stripe.com/)
  - [Laravel ShoppingCart](https://github.com/bumbummen99/LaravelShoppingcart)
  
-
-
-
-
  ### Course Instructors
 
 - Kazi Saeed Alam,

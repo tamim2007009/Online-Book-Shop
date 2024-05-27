@@ -43,7 +43,7 @@ class AdminAuthorsController extends Controller
             'name' => 'required',
             'slug' => 'required|unique:authors',
             'bio'  => 'required',
-            'image_id'=> 'image|max:500'
+            'image_id'=> 'image|max:5000'
         ];
         $message = [
             'image_id.image' => 'Image should be PNG, jpg, jpeg type'
